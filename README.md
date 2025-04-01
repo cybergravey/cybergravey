@@ -12,7 +12,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
-  - [Cybersecurity Quiz (Security+ Practice Questions)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py))
+  - [Cybersecurity Quiz (Security+ Practice Questions)](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py)
   - [Encryption Tool (Cipher Text)](https://github.com/cybergravey/python-projects/blob/main/encryption_tool/main.py)
 <h2>🔖 Degrees & Certifications:</h2>
 

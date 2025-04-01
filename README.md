@@ -12,15 +12,15 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  
+  - [Cybersecurity Quiz (Security+ Practice Questions)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py))
+  - [Encryption Tool (Cipher Text)](https://github.com/cybergravey/python-projects/blob/main/encryption_tool/main.py)
 <h2>🔖 Degrees & Certifications:</h2>
 
 - Google Cybersecurity Professional Certificate (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
+- Google IT Support Professional Certificate (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
 
 <h2>📝 I'm currently learning:</h2>
 
-- Google IT Support Professional Certificate (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+

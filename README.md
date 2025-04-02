@@ -2,24 +2,22 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Linux</b>
-  - [File Permissions](https://github.com/cybergravey/File-Permissions-in-Linux)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Labs</b>
+  - [linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
+  - [Power Shell (JWipe - Disk Sanitization)](https://github.com/cybergravey/ActiveDirectoryLab))
 - <b>Python</b>
   - [Cybersecurity Quiz (Security+ Practice Questions)](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py)
   - [Encryption Tool (Cipher Text)](https://github.com/cybergravey/python-projects/blob/main/encryption_tool/main.py)
+  - [Credit Card Validator](https://github.com/cybergravey/python-projects/blob/main/credit_card_validator/main.py)
+  - [Nmap Port Scanner](https://github.com/cybergravey/python-projects/blob/main/nmap_portscanner/main.py)
+  - [Password Generator](https://github.com/cybergravey/python-projects/blob/main/password_generator/main.py)
+  - [Password Manager](https://github.com/cybergravey/python-projects/blob/main/password_manager/main.py)
 <h2>🔖 Degrees & Certifications:</h2>
 
 - Google Cybersecurity Professional Certificate (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
 - Google IT Support Professional Certificate (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
 
-<h2>📝 I'm currently learning:</h2>
+<h2>📝 Currently learning:</h2>
 
 - CompTIA A+
 - CompTIA Network+

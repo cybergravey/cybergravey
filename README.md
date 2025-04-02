@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Labs</b>
-  - [linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
-  - [Power Shell (JWipe - Disk Sanitization)](https://github.com/cybergravey/ActiveDirectoryLab))
+  - [Linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
+  - [PowerShell (JWipe - Disk Sanitization)](https://github.com/cybergravey/ActiveDirectoryLab))
 - <b>Python</b>
   - [Cybersecurity Quiz (Security+ Practice Questions)](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py)
   - [Encryption Tool (Cipher Text)](https://github.com/cybergravey/python-projects/blob/main/encryption_tool/main.py)

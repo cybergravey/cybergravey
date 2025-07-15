@@ -41,8 +41,8 @@ I’m documenting my home lab journey on YouTube:
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: (https://x.com/cybergravey
-[linkedin]: www.linkedin.com/in/chris-graves-66999b1a4
+[twitter]: (https://x.com/sarifimlabs)
+[linkedin]: (www.linkedin.com/in/chris-graves-66999b1a4)
 
 📬 **Email**: sarifimlabs@gmail.com
 

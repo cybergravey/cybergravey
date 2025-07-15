@@ -36,15 +36,6 @@ I’m documenting my home lab journey on YouTube:
 > **YouTube:** [Sarifim Labs](https://www.youtube.com/@SarifimLabs)
 > “Build. Break. Rebuild. Repeat.”
 
-<h2>🤳 Connect with me:</h2>
-
-[X](https://x.com/sarifimlabs)
-[linkedin](www.linkedin.com/in/chris-graves-66999b1a4)
-
-📬 **Email**: sarifimlabs@gmail.com
-
-
-
 <!--
 **cybergravey/cybergravey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

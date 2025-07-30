@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-graves-66999b1a4/">**Aspiring Cybersecurity Professional**</a></h1>
-Welcome to my GitHub — this is where I document my journey through IT, cybersecurity, and hands-on tech exploration. I’m building home labs, scripting automation tools, and learning by doing one command at a time.
+Welcome to my GitHub! This is where I document my journey through IT, cybersecurity, and hands-on tech exploration. I’m building home labs, scripting automation tools, and learning by doing one command at a time.
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 

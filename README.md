@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chris! </h1>
-Welcome to my GitHub! This is where I document my journey through IT, cybersecurity, and hands-on tech exploration. I’m building home labs, scripting automation tools, and learning by doing one command at a time. For my latest projects, please go to the repositories tab.
+Welcome to my GitHub! This is where I document my journey through IT, cybersecurity, and hands-on tech exploration. I’m building home labs, scripting automation tools, and learning by doing one command at a time. For my latest projects, please go to the repositories.
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 

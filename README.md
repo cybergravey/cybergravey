@@ -1,7 +1,7 @@
-<h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/chris-graves-66999b1a4/">**Aspiring Cybersecurity Professional**</a></h1>
+<h1>Hi, I'm Chris! </h1>
 Welcome to my GitHub! This is where I document my journey through IT, cybersecurity, and hands-on tech exploration. I’m building home labs, scripting automation tools, and learning by doing one command at a time.
 
-<h2>👨‍💻 Cybersecurity & IT Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Labs & Learning Tools</b>
   - [Linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
@@ -15,7 +15,7 @@ Welcome to my GitHub! This is where I document my journey through IT, cybersecur
   - [Password Generator](https://github.com/cybergravey/python-projects/blob/main/password_generator/main.py)
   - [Password Manager](https://github.com/cybergravey/python-projects/blob/main/password_manager/main.py)
 
-<h2>🔖 Degrees & Certifications:</h2>
+<h2>🔖 Certifications:</h2>
 
 - ✅ Google Cybersecurity Professional Certificate (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
 - ✅ Google IT Support Professional Certificate (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)

@@ -21,6 +21,9 @@ Welcome to my GitHub! This is where I document my journey through IT, cybersecur
   Modular Python-based cybersecurity framework focused on reconnaissance,
   detection, log analysis, and automation. Designed as a long-term,
   extensible platform and actively developed in a private repository.
+
+  Several public tools (such as the Python Log + IOC Scanner) are released
+  independently as learning milestones and components that feed into Sarifim.
   
 - <b>Labs & Learning Tools</b>
   - [Linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)

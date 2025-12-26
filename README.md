@@ -3,27 +3,37 @@ Welcome to my GitHub! This is where I document my journey through IT, cybersecur
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-- <b>Labs & Learning Tools</b>
-  - [Linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
-  - [PowerShell (JWipe - Disk Sanitization)](https://github.com/cybergravey/ActiveDirectoryLab))
-
 - <b>Python Projects</b>
-  - [Cybersecurity Quiz (Security+ Practice Questions)](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py)
+
+  ⭐ Featured Project: [Python Log + IOC Scanner](https://github.com/cybergravey/python-log-ioc-scanner) – CLI tool for analyzing system logs, detecting IOCs, and generating reports
+
   - [Encryption Tool (Cipher Text)](https://github.com/cybergravey/python-projects/blob/main/encryption_tool/main.py)
+  - [DNS Scanner](https://github.com/cybergravey/python/tree/main/dns_scanner)  
   - [Credit Card Validator](https://github.com/cybergravey/python-projects/blob/main/credit_card_validator/main.py)
   - [Nmap Port Scanner](https://github.com/cybergravey/python-projects/blob/main/nmap_portscanner/main.py)
   - [Password Generator](https://github.com/cybergravey/python-projects/blob/main/password_generator/main.py)
   - [Password Manager](https://github.com/cybergravey/python-projects/blob/main/password_manager/main.py)
+  - [Keylogger](https://github.com/cybergravey/python/tree/main/keylogger)
+  - [Quiz (Security+ Practice Questions)](https://github.com/cybergravey/python-projects/blob/main/Quiz_Cybersecurity/main.py)
+ 
+  🛡️ Flagship Project (Private): [**Sarifim Cybersecurity Framework**](https://github.com/cybergravey/sarifim-public)
 
+  Modular Python-based cybersecurity framework focused on reconnaissance,
+  detection, log analysis, and automation. Designed as a long-term,
+  extensible platform and actively developed in a private repository.
+  
+- <b>Labs & Learning Tools</b>
+  - [Linux (File Permissions)](https://github.com/cybergravey/File-Permissions-in-Linux)
+  - [PowerShell (JWipe - Disk Sanitization)](https://github.com/cybergravey/ActiveDirectoryLab)
+    
 <h2>🔖 Certifications:</h2>
 
-- ✅ Google Cybersecurity Professional Certificate (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
-- ✅ Google IT Support Professional Certificate (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
+- CompTIA Network+ ce Certification (https://www.credly.com/badges/61d81b95-d09e-4c63-8b92-67cbffb5c118/public_url)
+- Google Cybersecurity Certification (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
+- Google IT Support Certification (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
 
 <h2>📝 Currently Learning:</h2>
 
-- CompTIA A+
-- CompTIA Network+
 - CompTIA Security+
 
 <h2>🧠 Building With:</h2>

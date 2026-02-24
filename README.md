@@ -31,13 +31,14 @@ Welcome to my GitHub! This is where I document my journey through IT, cybersecur
     
 <h2>🔖 Certifications:</h2>
 
+- CompTIA Security+ ce Certification (https://www.credly.com/badges/8f7dd7d4-cb03-46dd-8e55-c6780655a7ae)
 - CompTIA Network+ ce Certification (https://www.credly.com/badges/61d81b95-d09e-4c63-8b92-67cbffb5c118/public_url)
 - Google Cybersecurity Certification (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
 - Google IT Support Certification (https://coursera.org/share/42b215bbae6ab2d196b9e7ce7defe331)
 
 <h2>📝 Currently Learning:</h2>
 
-- CompTIA Security+
+- BSIT WGU
 
 <h2>🧠 Building With:</h2>
 

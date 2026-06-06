@@ -31,6 +31,7 @@ Welcome to my GitHub! This is where I document my journey through IT, cybersecur
     
 <h2>🔖 Certifications:</h2>
 
+- CompTIA A+ ce Certification (https://www.credly.com/badges/76ef507d-3aff-49da-b16f-15d9f3f66987/public_url)
 - CompTIA Security+ ce Certification (https://www.credly.com/badges/8f7dd7d4-cb03-46dd-8e55-c6780655a7ae)
 - CompTIA Network+ ce Certification (https://www.credly.com/badges/61d81b95-d09e-4c63-8b92-67cbffb5c118/public_url)
 - Google Cybersecurity Certification (https://coursera.org/share/b578b8da1ab4c55387d16abf939418bf)
